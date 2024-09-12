@@ -1,0 +1,66 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 21/01/2020 11:53
+  	*/
+
+    @font-face {
+      font-family: "Flaticon";
+      src: url("../fonts/Flaticon.eot");
+      src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+           url("../fonts/Flaticon.woff2") format("woff2"),
+           url("../fonts/Flaticon.woff") format("woff"),
+           url("../fonts/Flaticon.ttf") format("truetype"),
+           url("../fonts/Flaticon.html#Flaticon") format("svg");
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.html#Flaticon") format("svg");
+      }
+    }
+    
+    [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+    [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+      font-family: Flaticon;
+      font-style: normal;
+    }
+    
+    .flaticon-circled:before { content: "\f100"; }
+    .flaticon-menu:before { content: "\f101"; }
+    .flaticon-menu-1:before { content: "\f102"; }
+    .flaticon-server:before { content: "\f103"; }
+    .flaticon-air-freight:before { content: "\f104"; }
+    .flaticon-plastic-bottle:before { content: "\f105"; }
+    .flaticon-street:before { content: "\f106"; }
+    .flaticon-left:before { content: "\f107"; }
+    .flaticon-right:before { content: "\f108"; }
+    .flaticon-back:before { content: "\f109"; }
+    .flaticon-right-1:before { content: "\f10a"; }
+    .flaticon-back-1:before { content: "\f10b"; }
+    .flaticon-forward:before { content: "\f10c"; }
+    .flaticon-box:before { content: "\f10d"; }
+    .flaticon-support:before { content: "\f10e"; }
+    .flaticon-product-realise:before { content: "\f10f"; }
+    .flaticon-planet-earth:before { content: "\f110"; }
+    .flaticon-home:before { content: "\f111"; }
+    .flaticon-fast-delivery:before { content: "\f112"; }
+    .flaticon-lock:before { content: "\f113"; }
+    .flaticon-stopwatch:before { content: "\f114"; }
+    .flaticon-payment-method:before { content: "\f115"; }
+    .flaticon-alarm-clock-symbol:before { content: "\f116"; }
+    .flaticon-warehouse:before { content: "\f117"; }
+    .flaticon-distribution:before { content: "\f118"; }
+    .flaticon-package:before { content: "\f119"; }
+    .flaticon-bank:before { content: "\f11a"; }
+    .flaticon-truck:before { content: "\f11b"; }
+    .flaticon-quote:before { content: "\f11c"; }
+    .flaticon-check:before { content: "\f11d"; }
+    .flaticon-checked:before { content: "\f11e"; }
+    .flaticon-tick:before { content: "\f11f"; }
+    .flaticon-user:before { content: "\f120"; }
+    .flaticon-user-1:before { content: "\f121"; }
+    .flaticon-conversation:before { content: "\f122"; }
+    .flaticon-chat:before { content: "\f123"; }
